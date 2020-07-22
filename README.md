@@ -1,7 +1,7 @@
 # Tip-Calculator--iOS-app
 
 
-**Tip Caluculator** is a tip calculator application for iOS.
+**Tip Caluculator** is a application for iOS.
 
 Submitted by: **Sathya Sri P**
 
